@@ -1,0 +1,6 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Local tsconfig schema placeholder",
+  "description": "Prevents remote schema lookup errors in offline environments.",
+  "type": "object"
+}
